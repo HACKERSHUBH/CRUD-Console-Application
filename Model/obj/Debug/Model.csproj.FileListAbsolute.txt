@@ -1,0 +1,6 @@
+C:\Users\shubham_sharma12\source\repos\MiniProject\Model\bin\Debug\Model.dll
+C:\Users\shubham_sharma12\source\repos\MiniProject\Model\bin\Debug\Model.pdb
+C:\Users\shubham_sharma12\source\repos\MiniProject\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\shubham_sharma12\source\repos\MiniProject\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\shubham_sharma12\source\repos\MiniProject\Model\obj\Debug\Model.dll
+C:\Users\shubham_sharma12\source\repos\MiniProject\Model\obj\Debug\Model.pdb

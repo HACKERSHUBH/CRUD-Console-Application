@@ -1,0 +1,12 @@
+C:\Users\shubham_sharma12\source\repos\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\shubham_sharma12\source\repos\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\shubham_sharma12\source\repos\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\shubham_sharma12\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\shubham_sharma12\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\shubham_sharma12\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\shubham_sharma12\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\shubham_sharma12\source\repos\MiniProject\MiniProject\bin\Debug\Model.dll
+C:\Users\shubham_sharma12\source\repos\MiniProject\MiniProject\bin\Debug\Model.pdb
+C:\Users\shubham_sharma12\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CopyComplete
+C:\Users\shubham_sharma12\source\repos\MiniProject\MiniProject\bin\Debug\Services.dll
+C:\Users\shubham_sharma12\source\repos\MiniProject\MiniProject\bin\Debug\Services.pdb

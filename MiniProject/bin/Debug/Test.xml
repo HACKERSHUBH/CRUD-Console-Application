@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<School>
+  <Student>
+    <Name>Roshan Tripathi</Name>
+    <Address>Karnataka</Address>
+    <ID>3</ID>
+    <Designation>SDE2</Designation>
+    <Pay>517718.8</Pay>
+  </Student>
+  <Student>
+    <Name>Rahul Verma</Name>
+    <Address>Hyderabad</Address>
+    <ID>2</ID>
+    <Designation>SDE2</Designation>
+    <Pay>478326.3</Pay>
+  </Student>
+  <Student>
+    <Name>Shubham Sharma</Name>
+    <Address>Bangalore</Address>
+    <ID>1</ID>
+    <Designation>SDE1</Designation>
+    <Pay>782382.9</Pay>
+  </Student>
+</School>
